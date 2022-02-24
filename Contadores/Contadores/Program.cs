@@ -10,6 +10,8 @@ namespace Contadores
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Arregle Numerico");
+            Console.ReadKey();
         }
     }
 }
