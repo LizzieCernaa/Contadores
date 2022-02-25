@@ -10,11 +10,12 @@ namespace Contadores
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Arregle Numerico");
+            Console.WriteLine("Agrege Numerico");
             int numero1 = int.Parse(Console.ReadLine());
            // int contador = 0;
            // int numero1 = 0;
            // int contador2 = 0;
+
 
             for (int contador = 0; contador <= numero1; contador++)
             {
